@@ -1,0 +1,13 @@
+Interface				Class
+---------------------------------------------------
+Collection
+List					ArrayList	- Lista que se repite.
+Set					HashSet		- Lista que no se repite.
+SortedSet				TreeSet		- Se repite con orden.
+---------------------------------------------------  Con clave
+Map					TreeMap		- La clave no se repite con orden.
+SortedMap				HashMap		- La clave se repite con orden.
+
+
+Hay que asignar interfaz Comparable / Comparator.
+Las colecciones se recorren con el bucle for-each.
